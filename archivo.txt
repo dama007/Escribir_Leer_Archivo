@@ -1,0 +1,2 @@
+Hello World, this is a trial.
+To show how to write a file
